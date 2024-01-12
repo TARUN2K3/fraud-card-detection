@@ -2,21 +2,15 @@
 
 Fraud Card Detection is a machine learning-based project designed to identify and prevent credit card fraud. Leveraging advanced algorithms and real-time monitoring, this system offers an effective solution for detecting potentially fraudulent activities in credit card transactions.
 
-# Fraud Card Detection
-
-Detect fraudulent credit card transactions using machine learning.
-
 ## Overview
-
-This project aims to develop a Fraud Card Detection system to identify potentially fraudulent credit card transactions. The solution involves preprocessing the dataset, training a machine learning model, and deploying it for real-time monitoring.
+The solution involves preprocessing the dataset, training a machine learning model, and deploying it for real-time monitoring.
 
 ## Steps
 
 
-
 1. Data Collection
 
-Collect a dataset containing credit card transactions, including both legitimate and fraudulent transactions.
+    Collect a dataset containing credit card transactions, including both legitimate and fraudulent transactions.
 
 2. Data Preprocessing
 
@@ -27,23 +21,23 @@ Collect a dataset containing credit card transactions, including both legitimate
 
 3. Feature Engineering
 
-Enhance the model's ability to detect fraud by creating new features or modifying existing ones.
+    Enhance the model's ability to detect fraud by creating new features or modifying existing ones.
 
 4. Model Selection
 
-Choose a suitable machine learning algorithm for fraud detection.
+    Choose a suitable machine learning algorithm for fraud detection.
 
 5. Model Training
 
-Train the selected model on the training dataset, using techniques like cross-validation.
+    Train the selected model on the training dataset, using techniques like cross-validation.
 
 6. Evaluation
 
-Evaluate the model's performance using metrics such as precision, recall, F1-score, and AUC-ROC.
+    Evaluate the model's performance using metrics such as precision, recall, F1-score, and AUC-ROC.
 
 7. Accuracy
 
-Find its performance.
+    Find its performance.
 
 ## Introduction
 
@@ -61,12 +55,11 @@ Fraud Card Detection aims to enhance security in financial transactions by apply
 - **Python:** Core programming language for the project.
 - **Scikit-learn:** Machine learning library for model development.
 - **TensorFlow:** Framework for building and training machine learning models.
-- **Flask:** Used for developing the web application.
-- **HTML/CSS/JavaScript:** Technologies for building the interactive dashboard.
 
 ## Demo
 
-Check out the live demo of the Fraud Card Detection system at [example.com/fraud-detection-demo](https://example.com/fraud-detection-demo).
+![Screenshot (96)](https://github.com/TARUN2K3/DATA-_SCIENCE_PROJECT_1/assets/127468524/6cb98b74-d285-48ef-b591-d06e85d3d622)
+
 
 ## Installation
 
@@ -75,22 +68,9 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/fraud-card-detection.git
+    git clone https://github.com/TARUN2K3/fraud-card-detection.git
     ```
 
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the application:
-
-    ```bash
-    python app.py
-    ```
-
-Visit [http://localhost:5000](http://localhost:5000) to access the Fraud Card Detection dashboard.
 
 ## Usage
 
@@ -100,8 +80,4 @@ Visit [http://localhost:5000](http://localhost:5000) to access the Fraud Card De
 
 ## Contributing
 
-Contributions are welcome! If you find any issues, have suggestions for improvements, or want to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Contributions are welcome! If you find any issues, have suggestions for improvements, or want to contribute to the project.
